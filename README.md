@@ -2,4 +2,4 @@
 
 ## 예제 파일에 대하여 
 
-<a href="https://www.fastcampus.co.kr/dev_camp_cvocv/" target="_blank">[링크]</a> 에서 예제 파일을 내려받으세요.
+<a href="https://github.com/gilbutITbook/006966/releases/download/Stan%26R/code.zip" target="_blank">[링크]</a> 에서 예제 파일을 내려받으세요.
